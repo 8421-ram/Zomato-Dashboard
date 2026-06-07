@@ -7,10 +7,11 @@ ________________________________________________________________________________
     </a>
     <a href="https://8421-ram.github.io/Portfolio/">
         <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1716824966/Github/project%20photos/portfolio.png" alt="Portfolio" style="width: 40px; height: 40px;">
-    </a>
-</div>
+   ## Live Dashboard
 
-# Project Overview
+## Live Dashboard
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMThhNjM2MzgtOWY1Yi00OWJmLTk3M2MtYTc5OWY2MjVhOWU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ________________________________________________________________________________________________________________________________________________________________________________________
 ## Objective:
 The goal of this project is to build a Zomato dashboard that provides a visual representation of sales data, ratings, and order quantities for Zomato across different cities and food categories.
